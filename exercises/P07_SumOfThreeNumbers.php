@@ -6,6 +6,9 @@ class P07_SumOfThreeNumbers {
         $numA = 100;
         $numB = 200;
         $numC = 300;
+        $sumABC = $numA + $numB + $numC;
+
+        echo "The sum of the numbers is $sumABC\n";
 
         // Calculate the sum and output the result
         // Write your program here
